@@ -4,6 +4,10 @@ Open-source, reusable Codex skills for Kaizen Ventures AI workshops and practica
 
 Each skill is self-contained: download its `SKILL.md`, attach it to a Codex task, and ask Codex to install and execute it. The skills are written to guide attendees through unavoidable sign-in, permission, and hardware steps while automating the rest with Computer Use.
 
+## New Mac? Start here
+
+Codex and Computer Use must be installed and configured before these skills can control the Mac. First-time attendees should complete [Start here: prepare Codex for Computer Use](START-HERE.md), including the Screen Recording and Accessibility permissions and the readiness test, before choosing a skill.
+
 ## Skill catalog
 
 | Skill | What it does | File |
@@ -19,11 +23,12 @@ Suggested Codex prompt:
 
 ## Fastest workshop workflow
 
-1. Open the relevant skill link in the catalog.
-2. Download `SKILL.md`, or download this repository as a ZIP.
-3. Attach `SKILL.md` to a new Codex task.
-4. Paste the suggested prompt.
-5. Follow Codex's handoff requests for sign-in, macOS permissions, and physical mouse-button presses.
+1. On a new Mac, complete the [Codex and Computer Use setup](START-HERE.md).
+2. Open the relevant skill link in the catalog.
+3. Download `SKILL.md`, or download this repository as a ZIP.
+4. Attach `SKILL.md` to a new Codex task.
+5. Paste the suggested prompt.
+6. Follow Codex's handoff requests for sign-in, macOS permissions, and physical mouse-button presses.
 
 The attendee does not need to clone the repository or use Git from the command line.
 
